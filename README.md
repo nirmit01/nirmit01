@@ -2,7 +2,7 @@
 
 # Nirmit Chaurasia
 
-### AI Undergraduate · Builder · Problem Solver
+### AI Undergraduate IIT Patna · Developer · Problem Solver
 
 *Building with curiosity. Shipping with discipline.*
 *Aiming to create world-class AI products.*
