@@ -84,10 +84,10 @@ I care about building things that feel inevitable in hindsight — products that
 
 <div align="center">
 
-![Nirmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&stroke=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
+![Nirmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmit01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmit01&hide_border=true&background=0d1117&stroke=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmit01&layout=compact&hide_border=true&langs_count=8&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
 
